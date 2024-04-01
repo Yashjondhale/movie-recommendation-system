@@ -1,4 +1,4 @@
-Movie-Recommendation-System-Using-Machinelearning
+Movie-Recommendation-System-Using-Machine_learning
 
 In this python project where using Pandas library we will find correlation and created basic Movie Recommender System with Python.
 
